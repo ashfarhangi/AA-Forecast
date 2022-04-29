@@ -48,7 +48,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-![Figure 1-1](https://github.com/0415070/AA-RNN/blob/main/visualization/Decomposition.png "Figure 1-1")
+![Figure 1-1](https://github.com/ashfarhangi/AA-RNN/blob/main/visualization/Decomposition.png "Figure 1-1")
 
 
 
