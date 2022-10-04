@@ -1,5 +1,5 @@
-AA-Forecast: Anomaly-Aware Forecast for Extreme
-Events
+AA-Forecast: Anomaly-Aware Forecast for Extreme Events
+
 [![Conference](http://img.shields.io/badge/ECML-2022-4b44ce.svg)](https://arxiv.org/abs/2208.09933)
 </div>
 ==============================
