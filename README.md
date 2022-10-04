@@ -6,13 +6,13 @@ Events
 
 If you find this code or idea useful, please consider citing our work:
 
-@article{farhangi2022aa,
+```@article{farhangi2022aa,
   title={AA-Forecast: Anomaly-Aware Forecast for Extreme Events},
   author={Farhangi, Ashkan and Bian, Jiang and Huang, Arthur and Xiong, Haoyi and Wang, Jun and Guo, Zhishan},
   journal={arXiv preprint arXiv:2208.09933},
   year={2022}
 }
-
+```
 ## Getting Started
 
 Instructions on setting up your project locally or on a cloud platform. To get a local copy up and running follow these simple example steps.
