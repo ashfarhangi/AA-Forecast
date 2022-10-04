@@ -1,8 +1,17 @@
-AA-RNN 
+AA-Forecast: Anomaly-Aware Forecast for Extreme
+Events
+[![Conference](http://img.shields.io/badge/ECML-2022-4b44ce.svg)](https://arxiv.org/abs/2208.09933)
+</div>
 ==============================
 
-Anomaly-Aware Time Series Prediction
+If you find this code or idea useful, please consider citing our work:
 
+@article{farhangi2022aa,
+  title={AA-Forecast: Anomaly-Aware Forecast for Extreme Events},
+  author={Farhangi, Ashkan and Bian, Jiang and Huang, Arthur and Xiong, Haoyi and Wang, Jun and Guo, Zhishan},
+  journal={arXiv preprint arXiv:2208.09933},
+  year={2022}
+}
 
 ## Getting Started
 
