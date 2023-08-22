@@ -1,6 +1,6 @@
 AA-Forecast: Anomaly-Aware Forecast for Extreme Events
 
-```
+
 ## Getting Started
 
 Instructions on setting up your project locally or on a cloud platform. To get a local copy up and running follow these simple example steps.
