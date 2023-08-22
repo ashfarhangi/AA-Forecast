@@ -44,14 +44,14 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-
 ![Figure 1-1](https://raw.githubusercontent.com/ashfarhangi/AA-Forecast/main/visualization/Decomposition.png "Figure 1-1")
 
 
 [![Conference](http://img.shields.io/badge/ECML-2022-4b44ce.svg)](https://arxiv.org/abs/2208.09933)
 </div>
-==============================
-Citation for the paper, code and data is as below:
+
+
+The citation for the paper, code, and data is as below:
 
 ```@article{farhangi2022aa,
   title={AA-Forecast: Anomaly-Aware Forecast for Extreme Events},
