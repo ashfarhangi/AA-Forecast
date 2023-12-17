@@ -1,7 +1,8 @@
 # Datasets
 
 The datasets for the AA-forecast network:
-Additional (New):
+New dataset added:
+## US Economy
 The US Economy Data contains the US Economy through the lens of people's spending.
 
 Date: The date of the data record.
