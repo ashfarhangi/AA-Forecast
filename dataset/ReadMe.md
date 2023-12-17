@@ -1,3 +1,3 @@
 # Datasets
 
-The datasets for the AA-RNN network.
+The datasets for the AA-forecast network.
