@@ -1,5 +1,8 @@
 AA-Forecast: Anomaly-Aware Forecast for Extreme Events
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ashfarhangi/AA-Forecast&type=Date)](https://star-history.com/#ashfarhangi/AA-Forecast&Date)
 
 ## Getting Started
 
