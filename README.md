@@ -1,8 +1,36 @@
-AA-Forecast: Anomaly-Aware Forecast for Extreme Events
+# AA-Forecast: Anomaly-Aware Forecast for Extreme Events
+
+**Published in**: Data Mining and Knowledge Discovery, 2023
+
+
+## Overview
+
+Time series models are often impacted by extreme events and anomalies, which are prevalent in real-world datasets. Such models require careful probabilistic forecasts, vital in risk management for extreme events like hurricanes and pandemics. Our proposed framework, AA-Forecast, leverages the effects of anomalies to improve prediction accuracy during extreme events. 
+
+## Key Features
+
+- **Automatic Anomaly Detection**: The model extracts anomalies automatically and incorporates them through an attention mechanism to enhance forecast accuracy during extreme events.
+- **Dynamic Uncertainty Optimization**: Employs an algorithm that reduces the uncertainty of forecasts in a nonlinear manner.
+- **Superior Performance**: Demonstrates consistent superior accuracy with less uncertainty across different datasets compared to current prediction models.
+
+## Contributions
+
+1. **Anomaly Extraction**: Introduces a novel decomposition method to extract anomalies.
+2. **Attention Mechanism**: Leverages the extracted anomalies through a specialized attention mechanism to improve forecasting.
+3. **Dynamic Optimization**: Reduces uncertainty in forecasts with a dynamic optimization approach.
+
+## Datasets
+The framework is evaluated on the following datasets:
+
+Hurricane Data: Time series data related to hurricane events.
+Pandemic Data: COVID-19 impact on various sectors.
+Synthetic Data: Generated datasets to test the model under controlled conditions.
+
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ashfarhangi/AA-Forecast&type=Date)](https://star-history.com/#ashfarhangi/AA-Forecast&Date)
+
 
 ## Getting Started
 
@@ -38,12 +66,6 @@ tax-sales-hurricane.csv
 3. Run model.py after the dataset has been gathered.
 You can use  make_data.py for this.
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-
-
 
 
 
@@ -56,11 +78,14 @@ Contributions are what make the open source community such an amazing place to b
 
 The citation for the paper, code, and data is as below:
 
-```@article{farhangi2022aa,
+```bibtex
+@article{farhangi2022aa,
   title={AA-Forecast: Anomaly-Aware Forecast for Extreme Events},
   author={Farhangi, Ashkan and Bian, Jiang and Huang, Arthur and Xiong, Haoyi and Wang, Jun and Guo, Zhishan},
-  journal={arXiv preprint arXiv:2208.09933},
-  year={2022}
+  journal={Data Mining and Knowledge Discovery},
+  year={2023},
+  volume={37},
+  pages={1209-1229},
+  doi={10.1007/s10618-023-00919-7}
 }
-
-
+```
