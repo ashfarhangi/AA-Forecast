@@ -27,10 +27,6 @@ Pandemic Data: COVID-19 impact on various sectors.
 Synthetic Data: Generated datasets to test the model under controlled conditions.
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ashfarhangi/AA-Forecast&type=Date)](https://star-history.com/#ashfarhangi/AA-Forecast&Date)
-
 
 ## Getting Started
 
@@ -76,7 +72,7 @@ You can use  make_data.py for this.
 </div>
 
 
-The citation for the paper, code, and data is as below:
+The citations for the paper, code, and data are as below:
 
 ```bibtex
 @article{farhangi2022aa,
